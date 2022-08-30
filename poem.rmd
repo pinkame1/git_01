@@ -25,11 +25,33 @@ And cannot friends be firm and fast,
 ## Second Verse
 <!--Put the first five lines of a poem by Robert Frost here!-->
 
+Something there is that doesnt love a wall.  
+That sends the frozen-ground-swell under it,  
+And spill the upper boulders in the sun;  
+And makes gaps even two can pass abreast.  
+The work of hunters is another thing.  
+
 ## Third Verse
 <!--Put the first two verses of The Walrus and the Carpenter here!-->
 
+
+“The sun was shining on the sea,  
+Shining with all his might:  
+He did his very best to make  
+The billows smooth and bright —  
+And this was odd, because it was  
+The middle of the night.  
+The moon was shining sulkily,  
+Because she thought the sun  
+Had got no business to be there  
+After the day was done —"  
+It’s very rude of him,” she said,  
+“To come and spoil the fun.”  
+
+
 ## Last Verse
 <!--Put a short poem of your choice 8-20 lines,here!-->
+
 Thank Heaven! the crisis –  
 The danger is past,  
 And the lingering illness  
@@ -41,3 +63,4 @@ I am shorn of my strength,
 And no muscle I move  
 As I lie at full length –  
 But no matter! – I feel I am better at length.  
+
